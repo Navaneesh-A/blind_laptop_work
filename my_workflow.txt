@@ -1,0 +1,51 @@
+0.45: alt
+0.51: tab
+0.95: alt
+0.99: tab
+1.12: tab
+1.93: t
+2.39: right ctrl
+2.48: t
+2.96: o
+3.52: backspace
+3.66: backspace
+4.27: right ctrl
+4.46: t
+4.78: l
+4.88: o
+4.94: c
+4.97: a
+5.7: enter
+6.32: right ctrl
+6.62: w
+7.1: w
+7.54: left ctrl
+7.54: right shift
+7.54: tab
+7.72: left ctrl
+7.72: right shift
+7.72: tab
+8.48: f3
+8.48: B
+8.62: f3
+8.62: B
+8.78: f3
+8.78: B
+8.94: f3
+8.94: B
+9.08: f2
+9.08: C
+9.8: alt
+9.9: tab
+10.05: tab
+10.22: tab
+10.51: down
+10.61: left
+10.88: left
+11.03: left
+15.3: alt
+15.34: tab
+15.6: tab
+16.02: down
+16.2: left
+19.95: esc
